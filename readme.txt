@@ -1,151 +1,58 @@
-==================================================================================================
+# Shivangi Singh - Portfolio
 
-DESCRIPTION:
+Welcome to my portfolio! I am **Shivangi Singh**, a passionate Flutter developer with **1 year of experience** in building scalable and high-performance mobile applications. I specialize in creating beautiful user interfaces and seamless experiences using modern technologies. My core focus is on building apps that solve real-world problems while maintaining top-notch code quality.
 
-MONICA is a carefully crafted and modern HTML website template designed for freelancers, social 
-media managers, and marketing consultants who help businesses and companies improve their online 
-presence and establish long-lasting relationships with their communities. It is an excellent tool 
-for telling people about your skills and credentials, services, and other offerings, giving them 
-a better idea of who you are.
+## 🔧 Skills & Technologies
 
-==================================================================================================
+### Frontend Development:
+- **Flutter & Dart**: Expert in building cross-platform mobile applications for both Android and iOS using Flutter. Experienced in integrating complex UI/UX designs and animations.
+- **UI/UX**: Focused on creating visually appealing and user-friendly interfaces, ensuring intuitive navigation and a smooth user experience.
+- **Provider Package**: Efficient state management for scalable and maintainable code architecture.
+  
+### Backend Development:
+- **Firebase**: Experienced in integrating Firebase services such as Firestore, Authentication, Cloud Functions, and Realtime Database for building dynamic and real-time apps.
+- **MongoDB**: Proficient in working with NoSQL databases like MongoDB to build backends for scalable mobile applications.
 
+### Additional Tools & Technologies:
+- **Hive**: Implemented Hive for local data storage, caching, and offline functionality in Flutter apps.
+- **Git & GitHub**: Strong version control skills with Git, collaborating on projects using GitHub for code management, pull requests, and issue tracking.
+- **REST APIs**: Integrated and consumed RESTful APIs to fetch and display data in applications.
 
-LICENSE:
+## 🛠️ Tools & Software
+- **Git & GitHub**: For version control, collaboration, and open-source contributions.
+- **Postman**: For API testing and debugging.
+- **Figma/Adobe XD**: To convert UI/UX designs into code, ensuring pixel-perfect implementation.
 
-This free resource is provided by styleshout.com and is free to use in 
-both personal and commercial projects.
+## 🏆 Experience
 
+### Flutter Developer | [Your Company] (2023 - Present)
+- **Built a wide range of mobile apps** using Flutter and Firebase for small to medium-sized businesses, including:
+  - **E-commerce apps** with real-time product updates and payment integration.
+  - **Chat applications** with Firebase Firestore and notifications.
+  - **Recipe apps** featuring dynamic data, filtering, and a chatbot for enhanced user engagement.
+  
+- **Worked on improving app performance** and user interfaces, focusing on optimizing state management with Provider and ensuring efficient API usage.
+  
+- **Collaborated with UI/UX designers** to turn wireframes and visual designs into high-quality, responsive Flutter apps.
 
-Rights:
--------
+- **Implemented CI/CD workflows** for automatic testing and deployment using GitHub Actions.
 
-You are permitted to use this free resource in any number of personal and commercial projects for 
-yourself or a client. You may modify the resource according to your requirements and include them 
-in your projects under the following condition - you MUST give appropriate credit, provide an 
-attribution link to styleshout.com.
+### Key Achievements:
+- Developed and launched several apps to the Play Store.
+- Integrated **push notifications**, **authentication**, and **real-time updates** using Firebase.
+- Utilized **Hive** for offline data storage, improving user experience for low-connectivity users.
 
+## 💻 Projects
 
-Prohibitions:
--------------
+1. **[Yes BiD]** - A mobile BID app built with Flutter, Firebase, and Provider.
+2. **[Chat App]** - A real-time chat app using Firebase Firestore and notification integration.
+3. **[Cookify]** - A recipe app featuring a chatbot and integration with the Edamam API for fetching recipes.
 
-You are not permitted to resell or redistribute(even for free) the resource "as is" without 
-prior consent. If you would like to republish or promote this resource on your site, please 
-link back to the appropriate resource page on styleshout.com where users can find the download 
-and not directly to the download zip file.
+## 🌱 What I'm Currently Learning:
+- **Advanced Flutter Animations** for smoother and more interactive UIs.
+- **Serverless architecture** using Firebase Cloud Functions.
+- **MongoDB with Flutter** to create full-stack, database-driven mobile applications.
 
-
-Attribution: 
-------------
-
-You must include a credit link to our website(https://www.styleshout.com) somewhere on your site. 
-We prefer the footer credit that comes with the template but you are still free to move it 
-somewhere else.
-
-
-
-If you have any questions about the License, feel free to contact us.
-
-
------------------------------------------------------------------------------------------------------
-
-
-REMOVING THE ATTRIBUTION LINK:
-
-We understand that there are situations where you want to use our templates without 
-the crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use a single 
-template attribution/credit link free on ONE DOMAIN name.
-
-You can send your payments through Paypal to this address: ealigam@gmail.com or
-visit our attribution removal page: https://www.styleshout.com/attribution-free/ 
-and click the pay button on the page.
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-SUPPORT:
-    
-Since MONICA is distributed for free, support is not offered. MONICA is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - https://marksheet.io/
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-javascript in your skill-set, you can also check out these tutorials: 
-
- - https://www.codecademy.com/learn/introduction-to-javascript
- - https://javascript.info/
-
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-USING THE MAILCHIMP FORM:
-
-To use the mailchimp form you need a mailchimp url. To get the mailchimp url, login to 
-your mailchimp account, click the Audience menu and select signup forms. Then choose 
-embedded forms and select unstyled form. In the generated form code get the value of 
-the form ACTION attribute and use it as your mailchimp url. Open the main.js file located
-in the template's "js" folder and look for this line of code: 
-
-const cfg = {
-
-    // MailChimp URL
-    mailChimpURL : 'https://facebook.us1.list-manage.com/subscribe/post?u=1abf75f6981256963a47d197a&amp;id=37c6d8f4d6' 
-
-};
-
-
-Replace the value of mailChimpURL with your mailchimp url.
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-GET THE LATEST VERSION:
-
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly on our website(https://www.styleshout.com/)
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-SOURCES AND CREDITS:
-
-I've used the following resources as listed.
-
-Fonts:
- - DM Serif Display Font (https://fonts.google.com/specimen/DM+Serif+Display)
- - Roboto Flex Font (https://fonts.google.com/specimen/Roboto+Flex)
-
-Icons:
- - Boxicons (https://boxicons.com/)
- - Atomicons (https://atomicons.com/)
-
-Stock Photos and Graphics:
- - Unsplash.com (https://unsplash.com/)
- 
-Javascript Files:
- - MoveTo.js (https://github.com/hsnaydd/moveTo)
- - Prism.js (https://prismjs.com/)
- - Swiper JS (https://swiperjs.com/)
-
--------------------------------------------------------------------------------------------------------
-
-
-Thanks for downloading from StyleShout :)
-
+## 📫 Let's Connect
+Feel free to reach out to me for collaborations and work or just to say hello!
 
